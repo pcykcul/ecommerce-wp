@@ -1,0 +1,76 @@
+2021-06-16T03:47:59+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_shop_loop_item_title() in D:\xampp_2020\htdocs\botika\wp-content\themes\botik\woocommerce\content-product.php:89
+Stack trace:
+#0 D:\xampp_2020\htdocs\botika\wp-includes\template.php(732): require()
+#1 D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('D:\\xampp_2020\\h...', false)
+#2 D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\templates\archive-product.php(70): wc_get_template_part('content', 'product')
+#3 D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('D:\\xampp_2020\\h...')
+#4 D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\templates\taxonomy-product-cat.php(22): wc_get_template('archive-product...')
+#5 D:\xampp_2020\htdocs\botika\wp-includes\template-loader.php(106): include('D:\\xampp_2020\\h...')
+#6 D:\xampp_2020\htdocs\botika\wp-blog-header.php(19): require_once('D:\\xampp_2020\\h...')
+#7 D:\xampp_2020\htdocs in D:\xampp_2020\htdocs\botika\wp-content\themes\botik\woocommerce\content-product.php on line 89
+
+2021-06-16T03:48:13+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_shop_loop_item_title() in D:\xampp_2020\htdocs\botika\wp-content\themes\botik\woocommerce\content-product.php:89
+Stack trace:
+#0 D:\xampp_2020\htdocs\botika\wp-includes\template.php(732): require()
+#1 D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('D:\\xampp_2020\\h...', false)
+#2 D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\templates\archive-product.php(70): wc_get_template_part('content', 'product')
+#3 D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('D:\\xampp_2020\\h...')
+#4 D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\templates\taxonomy-product-cat.php(22): wc_get_template('archive-product...')
+#5 D:\xampp_2020\htdocs\botika\wp-includes\template-loader.php(106): include('D:\\xampp_2020\\h...')
+#6 D:\xampp_2020\htdocs\botika\wp-blog-header.php(19): require_once('D:\\xampp_2020\\h...')
+#7 D:\xampp_2020\htdocs in D:\xampp_2020\htdocs\botika\wp-content\themes\botik\woocommerce\content-product.php on line 89
+
+2021-06-16T03:48:40+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_shop_loop_item_title() in D:\xampp_2020\htdocs\botika\wp-content\themes\botik\woocommerce\content-product.php:89
+Stack trace:
+#0 D:\xampp_2020\htdocs\botika\wp-includes\template.php(732): require()
+#1 D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('D:\\xampp_2020\\h...', false)
+#2 D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\templates\archive-product.php(70): wc_get_template_part('content', 'product')
+#3 D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('D:\\xampp_2020\\h...')
+#4 D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\templates\taxonomy-product-cat.php(22): wc_get_template('archive-product...')
+#5 D:\xampp_2020\htdocs\botika\wp-includes\template-loader.php(106): include('D:\\xampp_2020\\h...')
+#6 D:\xampp_2020\htdocs\botika\wp-blog-header.php(19): require_once('D:\\xampp_2020\\h...')
+#7 D:\xampp_2020\htdocs in D:\xampp_2020\htdocs\botika\wp-content\themes\botik\woocommerce\content-product.php on line 89
+
+2021-06-16T03:49:00+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_shop_loop_item_title() in D:\xampp_2020\htdocs\botika\wp-content\themes\botik\woocommerce\content-product.php:89
+Stack trace:
+#0 D:\xampp_2020\htdocs\botika\wp-includes\template.php(732): require()
+#1 D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('D:\\xampp_2020\\h...', false)
+#2 D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\templates\archive-product.php(70): wc_get_template_part('content', 'product')
+#3 D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('D:\\xampp_2020\\h...')
+#4 D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\templates\taxonomy-product-cat.php(22): wc_get_template('archive-product...')
+#5 D:\xampp_2020\htdocs\botika\wp-includes\template-loader.php(106): include('D:\\xampp_2020\\h...')
+#6 D:\xampp_2020\htdocs\botika\wp-blog-header.php(19): require_once('D:\\xampp_2020\\h...')
+#7 D:\xampp_2020\htdocs in D:\xampp_2020\htdocs\botika\wp-content\themes\botik\woocommerce\content-product.php on line 89
+
+2021-06-16T03:49:05+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_shop_loop_item_title() in D:\xampp_2020\htdocs\botika\wp-content\themes\botik\woocommerce\content-product.php:89
+Stack trace:
+#0 D:\xampp_2020\htdocs\botika\wp-includes\template.php(732): require()
+#1 D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('D:\\xampp_2020\\h...', false)
+#2 D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\templates\archive-product.php(70): wc_get_template_part('content', 'product')
+#3 D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('D:\\xampp_2020\\h...')
+#4 D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\templates\taxonomy-product-cat.php(22): wc_get_template('archive-product...')
+#5 D:\xampp_2020\htdocs\botika\wp-includes\template-loader.php(106): include('D:\\xampp_2020\\h...')
+#6 D:\xampp_2020\htdocs\botika\wp-blog-header.php(19): require_once('D:\\xampp_2020\\h...')
+#7 D:\xampp_2020\htdocs in D:\xampp_2020\htdocs\botika\wp-content\themes\botik\woocommerce\content-product.php on line 89
+
+2021-06-16T03:49:32+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_shop_loop_item_title() in D:\xampp_2020\htdocs\botika\wp-content\themes\botik\woocommerce\content-product.php:89
+Stack trace:
+#0 D:\xampp_2020\htdocs\botika\wp-includes\template.php(732): require()
+#1 D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('D:\\xampp_2020\\h...', false)
+#2 D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\templates\archive-product.php(70): wc_get_template_part('content', 'product')
+#3 D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('D:\\xampp_2020\\h...')
+#4 D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\templates\taxonomy-product-cat.php(22): wc_get_template('archive-product...')
+#5 D:\xampp_2020\htdocs\botika\wp-includes\template-loader.php(106): include('D:\\xampp_2020\\h...')
+#6 D:\xampp_2020\htdocs\botika\wp-blog-header.php(19): require_once('D:\\xampp_2020\\h...')
+#7 D:\xampp_2020\htdocs in D:\xampp_2020\htdocs\botika\wp-content\themes\botik\woocommerce\content-product.php on line 89
+
+2021-06-16T05:24:13+00:00 CRITICAL Cannot redeclare woocommerce_custom_product_add_to_cart_text() (previously declared in D:\xampp_2020\htdocs\botika\wp-content\themes\botik\inc\woocommerce.php:241) in D:\xampp_2020\htdocs\botika\wp-content\themes\botik\inc\woocommerce.php on line 275
+
+2021-06-16T05:24:27+00:00 CRITICAL Cannot redeclare woocommerce_custom_product_add_to_cart_text() (previously declared in D:\xampp_2020\htdocs\botika\wp-content\themes\botik\inc\woocommerce.php:241) in D:\xampp_2020\htdocs\botika\wp-content\themes\botik\inc\woocommerce.php on line 275
+
+2021-06-16T05:24:31+00:00 CRITICAL Cannot redeclare woocommerce_custom_product_add_to_cart_text() (previously declared in D:\xampp_2020\htdocs\botika\wp-content\themes\botik\inc\woocommerce.php:241) in D:\xampp_2020\htdocs\botika\wp-content\themes\botik\inc\woocommerce.php on line 275
+
+2021-06-16T05:26:34+00:00 CRITICAL syntax error, unexpected '/', expecting end of file in D:\xampp_2020\htdocs\botika\wp-content\themes\botik\inc\woocommerce.php on line 238
+
+2021-06-16T05:26:43+00:00 CRITICAL syntax error, unexpected '/', expecting end of file in D:\xampp_2020\htdocs\botika\wp-content\themes\botik\inc\woocommerce.php on line 238
+

@@ -1,0 +1,24 @@
+2021-06-15T08:51:12+00:00 CRITICAL Uncaught Error: Call to a member function is_visible() on string in D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\templates\content-product.php:23
+Stack trace:
+#0 D:\xampp_2020\htdocs\botika\wp-includes\template.php(732): require()
+#1 D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('D:\\xampp_2020\\h...', false)
+#2 D:\xampp_2020\htdocs\botika\wp-content\themes\botika\single-product.php(13): wc_get_template_part('content', 'product')
+#3 D:\xampp_2020\htdocs\botika\wp-includes\template-loader.php(106): include('D:\\xampp_2020\\h...')
+#4 D:\xampp_2020\htdocs\botika\wp-blog-header.php(19): require_once('D:\\xampp_2020\\h...')
+#5 D:\xampp_2020\htdocs\botika\index.php(17): require('D:\\xampp_2020\\h...')
+#6 {main}
+  thrown in D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\templates\content-product.php on line 23
+
+2021-06-15T12:28:11+00:00 CRITICAL Uncaught Error: Call to a member function is_visible() on string in D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\templates\content-product.php:23
+Stack trace:
+#0 D:\xampp_2020\htdocs\botika\wp-includes\template.php(732): require()
+#1 D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('D:\\xampp_2020\\h...', false)
+#2 D:\xampp_2020\htdocs\botika\wp-content\themes\botika\single-product.php(13): wc_get_template_part('content', 'product')
+#3 D:\xampp_2020\htdocs\botika\wp-includes\template-loader.php(106): include('D:\\xampp_2020\\h...')
+#4 D:\xampp_2020\htdocs\botika\wp-blog-header.php(19): require_once('D:\\xampp_2020\\h...')
+#5 D:\xampp_2020\htdocs\botika\index.php(17): require('D:\\xampp_2020\\h...')
+#6 {main}
+  thrown in D:\xampp_2020\htdocs\botika\wp-content\plugins\woocommerce\templates\content-product.php on line 23
+
+2021-06-15T13:18:36+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in D:\xampp_2020\htdocs\botika\wp-content\themes\botik\inc\woocommerce.php on line 198
+

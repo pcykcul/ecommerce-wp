@@ -1,0 +1,6 @@
+/wp-content/themes/botik/node_modules
+/wp-content/themes/botik/vendor
+/wp-content/themes/botik/package-lock.json
+/wp-content/themes/botik/composer.lock
+/wp-content/themes/botik/style.css.map
+/wp-content/themes/botik/.DS_Store
